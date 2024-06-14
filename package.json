@@ -1,0 +1,11 @@
+{
+  "name": "node-code-formatter",
+  "version": "1.0.0",
+  "description": "A utility for formatting code with various styles and options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vaishnavi Madalapure",
+  "license": "ISC"
+}
